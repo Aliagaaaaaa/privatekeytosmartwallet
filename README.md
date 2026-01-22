@@ -14,7 +14,7 @@ This program:
 
 - A valid Ethereum private key (without 0x prefix)
 - Destination Ethereum address to send ETH to
-- Test ETH on Base Sepolia (you can get it from a faucet)
+- **Test ETH on Base Sepolia** (you can get it from a faucet) - **Important**: The smart account needs ETH for gas fees to execute transactions
 - An Alchemy API key (get one at https://www.alchemy.com/ for free)
 
 ## Configuration
